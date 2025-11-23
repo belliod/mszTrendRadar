@@ -1,6 +1,3 @@
-胖东来
-于东来
-
 DeepSeek
 梁文锋
 
@@ -78,8 +75,10 @@ ipad
 mac
 ios
 
+小米
 xiaomi
 miui
+@10
 
 ai
 !gai
@@ -120,3 +119,5 @@ ai
 宇宙
 飞船
 航空
+
+
